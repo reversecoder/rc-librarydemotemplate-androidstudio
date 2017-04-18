@@ -10,7 +10,7 @@ android {
     compileSdkVersion appCompileSdkVersion
     buildToolsVersion appBuildToolsVersion
     defaultConfig {
-        applicationId "com.reversecoder.sqlite.demo"
+        applicationId "com.reversecoder.library.demo"
         minSdkVersion appMinSdkVersion
         targetSdkVersion appTargetSdkVersion
         versionCode appVersionCode
